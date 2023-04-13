@@ -24,7 +24,7 @@ I am a computer science student at IUT Montpellier in France. My favorite fields
 <br/>
 
 ## :fire: My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasthom&theme=react&layout=compact)](https://github.com/Jasthom/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasthom&theme=react&layout=compact)](https://github.com/thomasnalix/github-readme-stats)
 <br/>
 <br/>
 
