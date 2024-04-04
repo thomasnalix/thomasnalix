@@ -4,7 +4,7 @@
 </h1>
 
 ## 👦 About me
-I am a computer science student at IUT Montpellier in France. My favorite fields are web, software and video game development.
+I am a computer science student at IMT Mines ales in France.
 <br/>
 <br/>
 
