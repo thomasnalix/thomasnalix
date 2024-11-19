@@ -4,7 +4,7 @@
 </h1>
 
 ## 👦 About me
-I am a computer science student at IMT Mines ales in France.
+I am an apprentice engineer in software development at IMT Mines Alès
 <br/>
 <br/>
 
